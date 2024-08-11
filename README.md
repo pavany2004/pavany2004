@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavany2004
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning HTML,CSS,JavaScript,MERN
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : message @7521862494
 
